@@ -10,5 +10,5 @@ Aceptados: 7.
 Intentados: 4.
 Resueltos: 4. 
 
-Lenguajes usados: Java y C++. 
+Lenguaje usado: Java. 
 
