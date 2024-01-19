@@ -5,10 +5,10 @@ Web de los retos: https://aceptaelreto.com/
 
 Usuario: https://aceptaelreto.com/user/profile.php?id=34213
 
-Envíos: 12.
-Aceptados: 7. 
-Intentados: 4.
-Resueltos: 4. 
+Envíos: 15.
+Aceptados: 8. 
+Intentados: 5.
+Resueltos: 5. 
 
 Lenguaje usado: Java. 
 
